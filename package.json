@@ -7,7 +7,7 @@
     "Preact",
     "ESP3D"
   ],
-  "main" : "/bin/index.js",
+  "main": "./bin/index.js",
   "bin": {
     "esp3d-devtool": "./bin/index.js"
   },

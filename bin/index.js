@@ -1,5 +1,7 @@
 #!/usr/bin/env node
-const packageJson = require('./package.json')
+'use strict';
+
+const packageJson = require('../package.json')
 const path = require('path')
 const fs = require('fs')
 const webpack = require('webpack')
