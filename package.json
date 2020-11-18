@@ -1,0 +1,26 @@
+{
+  "name": "esp3d-webui-devtool",
+  "version": "0.1.0",
+  "description": "ESP3D webui development CLI tool",
+  "keywords": [
+    "3D Printer",
+    "Preact",
+    "ESP3D"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/alxblog/esp3d-webui-devtool",
+  "author": "Alexandre <3979539+alxblog@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^6.2.0",
+    "inquirer": "^7.3.3",
+    "webpack": "^4.44.2",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
