@@ -1,13 +1,15 @@
 {
   "name": "esp3d-webui-devtool",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ESP3D webui development CLI tool",
   "keywords": [
     "3D Printer",
     "Preact",
     "ESP3D"
   ],
-  "main": "index.js",
+  "bin": {
+    "esp3d-devtool": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
