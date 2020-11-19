@@ -23,6 +23,7 @@
     "clear": "^0.1.0",
     "commander": "^6.2.0",
     "inquirer": "^7.3.3",
+    "react-dev-utils": "^11.0.0",
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.7.2"
   }
